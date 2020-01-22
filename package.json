@@ -1,0 +1,27 @@
+{
+  "name": "ip-handle",
+  "version": "1.0.0",
+  "description": "Simple IP Converter",
+  "main": "index.js",
+  "dependencies": {
+    "big-integer": "^1.6.48"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nuno135/ip-handle.git"
+  },
+  "keywords": [
+    "IP",
+    "Converter"
+  ],
+  "author": "Nuno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nuno135/ip-handle/issues"
+  },
+  "homepage": "https://github.com/Nuno135/ip-handle#readme"
+}
