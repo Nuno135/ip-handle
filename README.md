@@ -31,6 +31,7 @@ ipHandler.ip6ToDec('0:0:0:0:0:FFFF:100:100');
 // 281470698520832
 ```
 
+Convert decimal to IPv6
 ```js
 var ipHandler = require('ip-handle');
 
